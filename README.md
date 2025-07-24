@@ -33,3 +33,8 @@ This is a **simple rule-based chatbot** written in Python for beginner-level und
 ```bash
 git clone https://github.com/your-username/chatpy-bot.git
 cd chatpy-bot
+
+###  Output:
+
+<img width="448" height="143" alt="output" src="https://github.com/user-attachments/assets/efa35917-22e6-486c-a102-c41c339e557b" />
+
